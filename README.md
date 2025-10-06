@@ -12,9 +12,6 @@ brew install stow
 sudo pacman -S stow
 ```
 
-
-
-
 # Installation
 
 ```shell

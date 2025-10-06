@@ -26,3 +26,6 @@ unset rc
 
 # Execute Starship
 eval "$(starship init bash)"
+### bling.sh source start
+test -f /usr/share/bazzite-cli/bling.sh && source /usr/share/bazzite-cli/bling.sh
+### bling.sh source end
