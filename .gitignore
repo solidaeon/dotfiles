@@ -3,3 +3,5 @@
 !.gitconfig
 !.bashrc
 !.zshrc
+!.config/MangoHud/MangoHud.conf
+!setup/cachyos/init-cachyos.sh
