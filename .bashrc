@@ -24,4 +24,5 @@ if [ -d ~/.bashrc.d ]; then
 fi
 unset rc
 
+# Execute Starship
 eval "$(starship init bash)"

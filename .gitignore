@@ -1,0 +1,14 @@
+*
+!.gitignore
+!.gitconfig
+!.bashrc
+!.zshrc
+
+!.config
+!.config/MangoHud
+!.config/MangoHud/MangoHud.conf
+!.config/starship.toml
+
+!setup/
+!setup/**/
+!setup/**/*.sh
