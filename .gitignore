@@ -1,2 +1,5 @@
 *
 !.gitignore
+!.gitconfig
+!.bashrc
+!.zshrc
