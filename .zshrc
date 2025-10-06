@@ -1,1 +1,1 @@
-source /usr/share/cachyos-zsh-config/cachyos-config.zsh
+# Created by newuser for 5.9
